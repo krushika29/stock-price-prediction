@@ -1,1 +1,1 @@
-# stock-prince-prediction
+# stock_driven_portfolio_analysis
